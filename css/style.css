@@ -1,3 +1,28 @@
 body{
     background: linear-gradient(90deg, #A17C75, #B5BDC3, #3B5667);
+    color: aliceblue;
+    font-family: "Lucida Blackletter";
+    text-align: center;
+}
+img{
+    width: 150px;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+table{
+    margin: auto;
+}
+form{
+
+    width: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10%;
+    border: 1px solid aliceblue; border-collapse: collapse;
 }
