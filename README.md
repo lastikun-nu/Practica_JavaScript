@@ -16,7 +16,7 @@ Practica_JavaScript
 
 ## Mejoras implementadas
 
-Opción 1: Añadir un menú de navegación con enlaces internos(ej: #inicio, #contacto).
-Opción 2: Insertar una tabla con información (ej: horario de clases, lista de tareas).
-Opción 3: Agregar un formulario de contacto (sin funcionalidad, solo estructura HTML).
-Opción 5: Añadir un footer con enlaces a redes sociales (solo texto).
+- Opción 1: Añadir un menú de navegación con enlaces internos(ej: #inicio, #contacto).
+- Opción 2: Insertar una tabla con información (ej: horario de clases, lista de tareas).
+- Opción 3: Agregar un formulario de contacto (sin funcionalidad, solo estructura HTML).
+- Opción 5: Añadir un footer con enlaces a redes sociales (solo texto).
