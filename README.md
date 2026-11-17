@@ -1,7 +1,7 @@
-##Practica_JavaScript
+## Practica_JavaScript
 Proyecto desarrolado para practicar HTML,Git y GitHub.
 
-##Indice
+## Indice
 - [Estructura](#estructura)
 - [Mejoras implementadas](#mejoras-implementadas)
 
